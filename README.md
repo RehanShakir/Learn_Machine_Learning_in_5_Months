@@ -10,7 +10,7 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Week 3 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 4 Essential Math for Machine Learning: Python Edition
-https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3
+https://courses.edx.org/courses/course-v1:Microsoft+DAT256x+2T2018/course/#
 
 # Month 2
 
