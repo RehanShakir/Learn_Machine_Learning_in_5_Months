@@ -23,7 +23,7 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
 ## Week 1 
 #### Principles of Machine Learning: Python Edition 
-https://courses.edx.org/courses/course-v1:Microsoft+DAT256x+2T2018/course/#
+https://courses.edx.org/courses/course-v1:Microsoft+DAT275x+2T2018/course/
 
 #### OR Principles of Machine Learning: R Edition
 https://www.edx.org/course/principles-of-machine-learning-r-edition-3
